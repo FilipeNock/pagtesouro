@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pagtesouro/static/css/main.e707e253.chunk.css",
-    "main.js": "/pagtesouro/static/js/main.3719d43b.chunk.js",
-    "main.js.map": "/pagtesouro/static/js/main.3719d43b.chunk.js.map",
+    "main.css": "/pagtesouro/static/css/main.3efe505d.chunk.css",
+    "main.js": "/pagtesouro/static/js/main.f9470eab.chunk.js",
+    "main.js.map": "/pagtesouro/static/js/main.f9470eab.chunk.js.map",
     "runtime-main.js": "/pagtesouro/static/js/runtime-main.cb50faca.js",
     "runtime-main.js.map": "/pagtesouro/static/js/runtime-main.cb50faca.js.map",
     "static/css/2.150d169a.chunk.css": "/pagtesouro/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.62d4000c.chunk.js.map": "/pagtesouro/static/js/3.62d4000c.chunk.js.map",
     "index.html": "/pagtesouro/index.html",
     "static/css/2.150d169a.chunk.css.map": "/pagtesouro/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.e707e253.chunk.css.map": "/pagtesouro/static/css/main.e707e253.chunk.css.map",
+    "static/css/main.3efe505d.chunk.css.map": "/pagtesouro/static/css/main.3efe505d.chunk.css.map",
     "static/js/2.9bc1832b.chunk.js.LICENSE.txt": "/pagtesouro/static/js/2.9bc1832b.chunk.js.LICENSE.txt",
     "static/media/logo.690b8c34.png": "/pagtesouro/static/media/logo.690b8c34.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.cb50faca.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.9bc1832b.chunk.js",
-    "static/css/main.e707e253.chunk.css",
-    "static/js/main.3719d43b.chunk.js"
+    "static/css/main.3efe505d.chunk.css",
+    "static/js/main.f9470eab.chunk.js"
   ]
 }
